@@ -47,8 +47,8 @@ MySql, MongoDB
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn profile link)*
-* 📧 Email: *(Add your email address)*
+* 💼 LinkedIn: https://www.linkedin.com/in/vishesh-jangid-tech/
+* 📧 Email: visheshjangid1234@gmail.com
 
 ---
 
