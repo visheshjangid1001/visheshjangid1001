@@ -23,30 +23,15 @@ Building scalable backend applications, exploring AI, and solving real-world pro
 
 Python , Sql , C++ , HTML , CSS 
 
-\
-
 ### Backend
 
-Flask , Fast API \
+Flask , Fast API 
 
 ### Machine Learning
+Data Cleaning, Data Transformation, Data Validation, Linear Regression, Random Forest, Feature Engineering
 
 ### Database
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=visheshjangid1001&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshjangid1001&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshjangid1001&layout=compact&theme=tokyonight"/>
-
-</p>
-
+MySql, MongoDB
 ---
 
 ## 🌱 Currently Learning
